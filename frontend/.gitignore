@@ -1,0 +1,12 @@
+# Dependencias y builds
+node_modules/
+dist/
+.vite/
+
+# Archivos temporales
+*.log
+
+# Configs locales
+.vscode/
+.env
+
